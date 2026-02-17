@@ -16,7 +16,7 @@ data discovery ecosystem.
 
 ## Overview
 
-`sunpy-cloudcatalog` implements a SunPy `BaseClient` that allows:
+`sunpy_cloudcatalog` implements a SunPy `BaseClient` that allows:
 
 -   Searching CloudCatalog datasets via `Fido.search()`
 -   Returning results as `QueryResponseTable`
@@ -33,7 +33,7 @@ https://docs.sunpy.org/en/stable/topic_guide/extending_fido.html
 ### From PyPI
 
 ``` bash
-pip install sunpy-cloudcatalog
+pip install sunpy_cloudcatalog
 ```
 
 ### Development Installation
