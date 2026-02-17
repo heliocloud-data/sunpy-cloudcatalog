@@ -1,14 +1,17 @@
 [project]
-name = "my_pyhc_package"
-version = "0.0.0"
-description = "A package of awesome Python code that will transform heliophysics forever."
+name = "sunpy-cloudcatalog"
+version = "0.1.0"
+description = "Fido client for SunPy to access CloudCatalog data holdings"
 license = { file = "LICENSE" }
 readme = "README.md"
 keywords = [
-    "awesome",
+    "cloud",
     "heliophysics",
-    "package"
+    "package",
+    "SunPy",
+    "Fido",
+    "CloudCatalog"
 ]
 
 [project.urls]
-Homepage = "https://github.com/heliophysicsPy/pyhc-repo-template"
+Homepage = "https://github.com/heliocloud-data/sunpy-cloudcatalog"
